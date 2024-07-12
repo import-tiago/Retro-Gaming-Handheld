@@ -23,24 +23,24 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### CORE
 Emulator core: [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
 
-#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → On-Screen Overlay*]</span>
+#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
 - **Overlay Preset:** *overlays/codiox/default_gbp.cfg*
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
 
-#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Shaders*]</span>
+#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** ON
 - **Load Preset:** *shaders/codiox/GBP-Codiox/gbp-3x.glslp*
 - **Save Preset → Save Content Directory Preset**
 
-#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Settings → Video → Scaling*]</span>
+#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
 - **Integer Scale:** OFF
 - **Integer Scale Overscale:** OFF
 
 #### SAVE CHANGES
-<span style="color:gold;">[Quick Menu → Overrides → Save Content Directory Overrides]</span>
+<code style="color : gold;">[Quick Menu → Overrides → Save Content Directory Overrides]</code>
 
 
 
@@ -67,22 +67,22 @@ Emulator core: [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
 #### CORE
 Emulator core: [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
 
-#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → On-Screen Overlay*]</span>
+#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
 - **Overlay Preset:** *overlays/codiox/default_gbc.cfg*
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
 
-#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Shaders*]</span>
+#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** OFF
 
-#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Settings → Video → Scaling*]</span>
+#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
 - **Integer Scale:** ON
 - **Integer Scale Overscale:** OFF
 - **Aspect Ratio:** Core provided
 
-#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Core Options*]</span>
+#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Core Options*]</code>
 
 - **GB Colorization:** GBC
 - **Color Correction:** GBC Only
@@ -90,7 +90,7 @@ Emulator core: [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
 - **Interframe Blending:** LCD Ghosting (Accurate)
 
 #### SAVE CHANGES
-<span style="color:gold;">[Quick Menu → Overrides → Save Content Directory Overrides]</span>
+<code style="color : gold;">[Quick Menu → Overrides → Save Content Directory Overrides]</code>
 
 
 
@@ -118,17 +118,17 @@ Emulator core: [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
 #### CORE
 Emulator core: [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
 
-#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → On-Screen Overlay*]</span>
+#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
 - **Overlay Preset:** *overlays/perfect_overlays/GBA/Perfect_GBA.cfg*
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
 
-#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Shaders*]</span>
+#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** OFF
 
-#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Settings → Video → Scaling*]</span>
+#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
 - **Integer Scale:** OFF
 - **Integer Scale Overscale:** OFF
 - **Aspect Ratio:** Custom
@@ -140,7 +140,7 @@ Emulator core: [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
 
 
 
-#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Core Options*]</span>
+#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Core Options*]</code>
 - **BIOS:** Auto select
 - **Boot mode:** Boot to BIOS
 - **RTC support:** ON
@@ -148,7 +148,7 @@ Emulator core: [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
 - **Interframe Blending:** ON
 
 #### SAVE CHANGES
-<span style="color:gold;">[Quick Menu → Overrides → Save Core Overrides]</span>
+<code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
 
 
 
@@ -175,29 +175,29 @@ Emulator core: [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
 #### CORE
 * Emulator core: [FCEUmm](https://emulation.gametechwiki.com/index.php/FCEUX) (FCE Ultra "mappers modified")
 
-#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → On-Screen Overlay*]</span>
+#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
 - **Overlay Preset:** *overlays/perfect_overlays/CRT/Perfect_CRT.cfg*
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
 
-#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Shaders*]</span>
+#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** ON
 - **Load Preset:** *shaders/interpolation/sharp-bilinear-2x-prescale.glslp*
 - **Shader Passes:** 3
 - **Shader #0:** (already seted by 'Load Preset')
 - **Shader #1:** (already seted by 'Load Preset')
 - **Shader #2:** *shaders/shimmerless/shaders/sharp-shimmerless.glsl*
-- <span style="color:gold;">[Apply Changes]</span>
-- <span style="color:gold;">[Save Preset → Save Core Preset]</span>
+- <code style="color : gold;">[Apply Changes]</code>
+- <code style="color : gold;">[Save Preset → Save Core Preset]</code>
 
-#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Settings → Video → Scaling*]</span>
+#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
 - **Integer Scale:** OFF
 - **Integer Scale Overscale:** OFF
 - **Aspect Ratio:** 4:3
 
-#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Core Options*]</span>
+#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Core Options*]</code>
 - **Aspect Ratio:** 4:3
 - **Crop Horizontal Left Overscan:** 8
 - **Crop Horizontal Right Overscan:** 0
@@ -205,7 +205,7 @@ Emulator core: [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
 - **Crop Vertical Bottom Overscan:** 0
 
 #### SAVE CHANGES
-<span style="color:gold;">[Quick Menu → Overrides → Save Core Overrides]</span>
+<code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
 
 
 
@@ -234,32 +234,32 @@ Emulator core: [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
 #### CORE
 * Emulator core: [Snes9x](https://emulation.gametechwiki.com/index.php/Snes9x)
 
-#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → On-Screen Overlay*]</span>
+#### OVERLAY  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
 - **Overlay Preset:** *overlays/perfect_overlays/CRT/Perfect_CRT.cfg*
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
 
-#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Shaders*]</span>
+#### SHADERS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** ON
 - **Load Preset:** *shaders/interpolation/sharp-bilinear-2x-prescale.glslp*
 - **Shader Passes:** 3
 - **Shader #0:** (already seted by 'Load Preset')
 - **Shader #1:** (already seted by 'Load Preset')
 - **Shader #2:** *shaders/shimmerless/shaders/sharp-shimmerless.glsl*
-- <span style="color:gold;">[Apply Changes]</span>
-- <span style="color:gold;">[Save Preset → Save Core Preset]</span>
+- <code style="color : gold;">[Apply Changes]</code>
+- <code style="color : gold;">[Save Preset → Save Core Preset]</code>
 
-#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Settings → Video → Scaling*]</span>
+#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
 - **Integer Scale:** OFF
 - **Integer Scale Overscale:** OFF
 - **Aspect Ratio:** 4:3
 
-#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkseagreen;">[*Quick Menu → Core Options*]</span>
+#### MISCELLANEOUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Quick Menu → Core Options*]</code>
 - **Preferred Aspect Ratio:** 4:3
 - **Crop Overscan:** OFF
 
 
 #### SAVE CHANGES
-<span style="color:gold;">[Quick Menu → Overrides → Save Core Overrides]</span>
+<code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
