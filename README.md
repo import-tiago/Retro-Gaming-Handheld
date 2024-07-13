@@ -2,13 +2,14 @@
 
 Shaders, overlays, documentation, and a collection of information and utilities for personal use and needs.
 
-## [RetroArch](https://www.retroarch.com/) Settings
+## RetroArch Settings
 
-
-### Game Boy ([GB](https://en.wikipedia.org/wiki/Game_Boy))
-[check the default raw image](assets/raw_gb.png)
+<details>
+   <summary> Game Boy (GB)</summary>
 
 <img src="assets/final_gb.png" alt="final" style="display: block; margin: 0 auto;">
+
+[raw image](assets/raw_gb.png)
 
 #### CORE
 [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
@@ -16,7 +17,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### OVERLAY
 <code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
-- **Overlay Preset:** *overlays/codiox/default_gbp.cfg*
+- **Overlay Preset:** <code style="color : darkseagreen;">overlays/codiox/default_gbp.cfg</code>
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
@@ -24,7 +25,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### SHADERS
 <code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** ON
-- **Load Preset:** *shaders/codiox/GBP-Codiox/gbp-3x.glslp*
+- **Load Preset:** <code style="color : darkseagreen;">shaders/codiox/GBP-Codiox/gbp-3x.glslp</code>
 - **Save Preset → Save Content Directory Preset**
 
 #### VIDEO
@@ -35,17 +36,16 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### SAVE CHANGES
 <code style="color : gold;">[Quick Menu → Overrides → Save Content Directory Overrides]</code>
 
+</details>
 
 
 
-
-
-<br></br>
-
-### Game Boy Color ([GBC](https://en.wikipedia.org/wiki/Game_Boy_Color))
-[check the default raw image](assets/raw_gbc.png)
-
+<details>
+   <summary> Game Boy Color (GBC)</summary>
+  
 <img src="assets/final_gbc.png" alt="final" style="display: block; margin: 0 auto;">
+
+[raw image](assets/raw_gbc.png)
 
 #### CORE
 [Gambatte](https://emulation.gametechwiki.com/index.php/Gambatte)
@@ -53,7 +53,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### OVERLAY
 <code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
-- **Overlay Preset:** *overlays/codiox/default_gbc.cfg*
+- **Overlay Preset:** <code style="color : darkseagreen;">overlays/codiox/default_gbc.cfg</code>
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
@@ -62,7 +62,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** OFF
 
-#### VIDEO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
+#### VIDEO
+<code style="color : darkseagreen;">[*Settings → Video → Scaling*]</code>
 - **Integer Scale:** ON
 - **Integer Scale Overscale:** OFF
 - **Aspect Ratio:** Core provided
@@ -78,18 +79,16 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### SAVE CHANGES
 <code style="color : gold;">[Quick Menu → Overrides → Save Content Directory Overrides]</code>
 
+</details>
 
 
 
-
-
-
-<br></br>
-
-### Game Boy Advance ([GBA](https://en.wikipedia.org/wiki/Game_Boy_Advance))
-[check the default raw image](assets/raw_gba.png)
+<details>
+   <summary> Game Boy Advance (GBA)</summary>
 
 <img src="assets/final_gba.png" alt="final" style="display: block; margin: 0 auto;">
+
+[raw image](assets/raw_gba.png)
 
 #### CORE
 [gpSP](https://emulation.gametechwiki.com/index.php/GpSP)
@@ -97,7 +96,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### OVERLAY
 <code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
-- **Overlay Preset:** *overlays/perfect_overlays/GBA/Perfect_GBA.cfg*
+- **Overlay Preset:** <code style="color : darkseagreen;">overlays/perfect_overlays/GBA/Perfect_GBA.cfg</code>
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
@@ -116,9 +115,6 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 - **Custom Aspect Ratio (Width):** 640
 - **Custom Aspect Ratio (height):** 427
 
-
-
-
 #### MISCELLANEOUS
 <code style="color : darkseagreen;">[*Quick Menu → Core Options*]</code>
 - **BIOS:** Auto select
@@ -130,17 +126,16 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### SAVE CHANGES
 <code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
 
+</details>
 
 
 
-
-
-<br></br>
-
-### Nintendo Entertainment System ([NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System))
-[check the default raw image](assets/raw_nes.png)
+<details>
+   <summary> Nintendo Entertainment System (NES)</summary>
 
 <img src="assets/final_nes.png" alt="final" style="display: block; margin: 0 auto;">
+
+[raw image](assets/raw_nes.png)
 
 #### CORE
 [FCEUmm](https://emulation.gametechwiki.com/index.php/FCEUX) (FCE Ultra "mappers modified")
@@ -148,7 +143,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### OVERLAY
 <code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
-- **Overlay Preset:** *overlays/perfect_overlays/CRT/Perfect_CRT.cfg*
+- **Overlay Preset:** <code style="color : darkseagreen;">overlays/perfect_overlays/CRT/Perfect_CRT.cfg</code>
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
@@ -156,11 +151,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### SHADERS
 <code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** ON
-- **Load Preset:** *shaders/interpolation/sharp-bilinear-2x-prescale.glslp*
-- **Shader Passes:** 3
-- **Shader #0:** (already seted by 'Load Preset')
-- **Shader #1:** (already seted by 'Load Preset')
-- **Shader #2:** *shaders/shimmerless/shaders/sharp-shimmerless.glsl*
+- **Shader Passes:** 1
+- **Shader #0:** <code style="color : darkseagreen;">shaders/shimmerless/shaders/sharp-shimmerless.glsl</code>
 - <code style="color : gold;">[Apply Changes]</code>
 - <code style="color : gold;">[Save Preset → Save Core Preset]</code>
 
@@ -180,20 +172,16 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 
 #### SAVE CHANGES
 <code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
+</details>
 
 
 
-
-
-
-
-
-<br></br>
-
-### Super Nintendo Entertainment System ([SNES](https://www.gametechwiki.com/w/index.php/Super_Nintendo_Entertainment_System))
-[check the default raw image](assets/raw_snes.png)
+<details>
+   <summary> Super Nintendo Entertainment System (SNES)</summary>
 
 <img src="assets/final_snes.png" alt="final" style="display: block; margin: 0 auto;">
+
+[raw image](assets/raw_snes.png)
 
 #### CORE
 [Snes9x](https://emulation.gametechwiki.com/index.php/Snes9x)
@@ -201,7 +189,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### OVERLAY
 <code style="color : darkseagreen;">[*Quick Menu → On-Screen Overlay*]</code>
 - **Display Overlay:** ON
-- **Overlay Preset:** *overlays/perfect_overlays/CRT/Perfect_CRT.cfg*
+- **Overlay Preset:** <code style="color : darkseagreen;">overlays/perfect_overlays/CRT/Perfect_CRT.cfg</code>
 - **Overlay Opacity:** 1.00
 - **Auto-Rotate Overlay:** OFF
 - **Auto-Scale Overlay:** OFF
@@ -209,11 +197,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 #### SHADERS
 <code style="color : darkseagreen;">[*Quick Menu → Shaders*]</code>
 - **Video Shaders:** ON
-- **Load Preset:** *shaders/interpolation/sharp-bilinear-2x-prescale.glslp*
-- **Shader Passes:** 3
-- **Shader #0:** (already seted by 'Load Preset')
-- **Shader #1:** (already seted by 'Load Preset')
-- **Shader #2:** *shaders/shimmerless/shaders/sharp-shimmerless.glsl*
+- **Shader Passes:** 1
+- **Shader #0:** <code style="color : darkseagreen;">shaders/shimmerless/shaders/sharp-shimmerless.glsl</code>
 - <code style="color : gold;">[Apply Changes]</code>
 - <code style="color : gold;">[Save Preset → Save Core Preset]</code>
 
@@ -231,3 +216,5 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 
 #### SAVE CHANGES
 <code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
+
+</details>
