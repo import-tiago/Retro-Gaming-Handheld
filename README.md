@@ -274,3 +274,5 @@ Popular algorithms:
     </td>
   </tr>
 </table>
+
+[source/more info](https://gamingprojects.wordpress.com/2017/12/03/reducing-pixel-blur-and-distortion/)
