@@ -276,3 +276,9 @@ Popular algorithms:
 </table>
 
 [source/more info](https://gamingprojects.wordpress.com/2017/12/03/reducing-pixel-blur-and-distortion/)
+
+
+## Credits
+- [ourigen](https://github.com/ourigen/perfect_overlays)
+- [Woohyun Kang](https://github.com/Woohyun-Kang/Sharp-Shimmerless-Shader)
+- [Codiox](https://discord.com/channels/1152022492001603615/1241842963126943808/1241842963126943808)
