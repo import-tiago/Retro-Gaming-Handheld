@@ -7,6 +7,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Game Boy (GB)</summary>
 
+<br>
+
 <img src="assets/final_gb.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 [raw image](assets/raw_gb.png)
@@ -45,6 +47,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 
 <details>
    <summary> Game Boy Color (GBC)</summary>
+
+<br>
   
 <img src="assets/final_gbc.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
@@ -92,6 +96,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 
 <details>
    <summary> Game Boy Advance (GBA)</summary>
+
+<br>
 
 <img src="assets/final_gba.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
@@ -144,6 +150,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Nintendo Entertainment System (NES)</summary>
 
+<br>
+
 <img src="assets/final_nes.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 [raw image](assets/raw_nes.png)
@@ -190,6 +198,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Super Nintendo Entertainment System (SNES)</summary>
 
+<br>
+
 <img src="assets/final_snes.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 
@@ -230,3 +240,37 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <code style="color : gold;">[Quick Menu → Overrides → Save Core Overrides]</code>
 
 </details>
+
+## Shaders Concepts
+
+- Shaders are small programs written in specific programming languages.
+- They function as graphics filters, significantly enhancing the rendering quality of old games.
+- Shaders can also replicate the appearance of old CRT monitors, early LCD displays, and other vintage visuals.
+
+- There are three file extension possibilities for shaders:
+    - **.cpg** - [CG] An old, deprecated format.
+    - **.glslp** - [GLSL] Compatible with the OpenGL video driver.
+    - **.slangp** - [Slang] Compatible with Vulkan, Direct3D, and OpenGL Core.
+
+[source/more info](https://docs.libretro.com/shader/introduction/)
+
+### Pixel Normalization
+
+Pixel normalization refers to methods used to scale and display images in a way that preserves the visual integrity of the original artwork. "Ideal" pixels maintain the same shape, with no distortion or blurring, and this is often referred to as having "sharp pixels."
+
+Popular algorithms:
+- [Sharp-Shimmerless](https://github.com/Woohyun-Kang/Sharp-Shimmerless-Shader?tab=readme-ov-file)
+- [Sharp-Bilinear](https://github.com/rsn8887/Sharp-Bilinear-Shaders)
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="assets/not_normalized.png" alt="not_normalized" style="display: block; margin: 0 auto;">
+       <p>Not normalized pixels</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="assets/normalized.png" alt="normalized" style="display: block; margin: 0 auto;">
+       <p>Normalized pixels</p>
+    </td>
+  </tr>
+</table>
