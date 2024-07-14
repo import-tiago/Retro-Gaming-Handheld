@@ -7,7 +7,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Game Boy (GB)</summary>
 
-<img src="assets/final_gb.png" alt="final" style="display: block; margin: 0 auto;">
+<img src="assets/final_gb.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 [raw image](assets/raw_gb.png)
 
@@ -46,7 +46,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Game Boy Color (GBC)</summary>
   
-<img src="assets/final_gbc.png" alt="final" style="display: block; margin: 0 auto;">
+<img src="assets/final_gbc.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 [raw image](assets/raw_gbc.png)
 
@@ -93,7 +93,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Game Boy Advance (GBA)</summary>
 
-<img src="assets/final_gba.png" alt="final" style="display: block; margin: 0 auto;">
+<img src="assets/final_gba.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 [raw image](assets/raw_gba.png)
 
@@ -144,7 +144,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Nintendo Entertainment System (NES)</summary>
 
-<img src="assets/final_nes.png" alt="final" style="display: block; margin: 0 auto;">
+<img src="assets/final_nes.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
 
 [raw image](assets/raw_nes.png)
 
@@ -190,7 +190,8 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 <details>
    <summary> Super Nintendo Entertainment System (SNES)</summary>
 
-<img src="assets/final_snes.png" alt="final" style="display: block; margin: 0 auto;">
+<img src="assets/final_snes.png" alt="final" style="display: block; margin: 0 auto; width: 100%;">
+
 
 [raw image](assets/raw_snes.png)
 
