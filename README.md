@@ -262,18 +262,7 @@ Popular algorithms:
 - [Sharp-Shimmerless](https://github.com/Woohyun-Kang/Sharp-Shimmerless-Shader?tab=readme-ov-file)
 - [Sharp-Bilinear](https://github.com/rsn8887/Sharp-Bilinear-Shaders)
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="assets/not_normalized.png" alt="not_normalized" style="display: block; margin: 0 auto;">
-       <p>Not normalized pixels</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="assets/normalized.png" alt="normalized" style="display: block; margin: 0 auto;">
-       <p>Normalized pixels</p>
-    </td>
-  </tr>
-</table>
+<img src="assets/normalized.png" alt="normalized" style="display: block; margin: 0 auto; width: 100%;">
 
 [source/more info](https://gamingprojects.wordpress.com/2017/12/03/reducing-pixel-blur-and-distortion/)
 
