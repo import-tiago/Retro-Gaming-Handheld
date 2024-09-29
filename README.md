@@ -94,7 +94,7 @@ Shaders, overlays, documentation, and a collection of information and utilities 
 
 
 
-<details>
+<details open>
    <summary> Game Boy Advance (GBA)</summary>
 
 <br>
